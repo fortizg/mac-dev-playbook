@@ -84,6 +84,10 @@ homebrew_cask_apps:
   - visual-studio-code
   - telegram
   - microsoft-teams
+  - github
+  - qbittorrent
+  - vlc
+  - google-chrome
   
 
 # See `geerlingguy.mas` role documentation for usage instructions.
